@@ -11,10 +11,14 @@
             "id": "f0359bf7b9ba2f3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Nafaq_Platform/Content/Video 1 ( كيف تختار طبيبك ).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Video 1 ( كيف تختار طبيبك )"
             }
           }
         ]
@@ -166,8 +170,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "fc68830ebb5c1a58",
+  "active": "f0359bf7b9ba2f3e",
   "lastOpenFiles": [
+    "README.md",
     "Nafaq_Platform",
     "Nafaq_Platform/Content"
   ]
