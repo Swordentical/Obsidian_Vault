@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nafaq_Platform/Content/سلسلة التوعية الطبية/Video 3 ( فثسف ) - Copy.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video 3 ( فثسف ) - Copy"
+              "title": "README"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Nafaq_Platform/Content/سلسلة التوعية الطبية/Video 3 ( فثسف ) - Copy.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,8 +173,8 @@
   },
   "active": "826ff83754f185f3",
   "lastOpenFiles": [
-    "Nafaq_Platform/Content/سلسلة التوعية الطبية/Video 1 ( كيف تختار طبيبك ).md",
     "Nafaq_Platform/Content/سلسلة التوعية الطبية/Video 3 ( فثسف ) - Copy.md",
+    "Nafaq_Platform/Content/سلسلة التوعية الطبية/Video 1 ( كيف تختار طبيبك ).md",
     "Nafaq_Platform/Content/سلسلة التوعية الطبية",
     "Nafaq_Platform/Content",
     "Nafaq_Platform",
