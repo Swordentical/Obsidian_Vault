@@ -1,1 +1,3 @@
 This REPO is used as a syncing method for obsidian's notes
+
+-1 Windows (confirmed)
