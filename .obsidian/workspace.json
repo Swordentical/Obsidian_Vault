@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "71fe2e5db64340ce",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,12 +197,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "71fe2e5db64340ce",
+  "active": "89fe43a8182013a6",
   "lastOpenFiles": [
-    "Nafaq_Platform/Content/SoloTalk/العلم والجهل ؟ من يدفع الثمن ؟.md",
+    "Nafaq_Platform/Content/SoloTalk/العلم والجهل ؟ و من يدفع الثمن ؟.md",
+    "Nafaq_Platform/Content/سلسلة التوعية الطبية/Video 1 ( كيف تختار طبيبك ).md",
     "Nafaq_Platform/Content/SoloTalk",
     "README.md",
-    "Nafaq_Platform/Content/سلسلة التوعية الطبية/Video 1 ( كيف تختار طبيبك ).md",
     "Nafaq_Platform/Content/سلسلة التوعية الطبية/Video 3 ( فثسف ) - Copy.md",
     "conflict-files-obsidian-git.md"
   ]
