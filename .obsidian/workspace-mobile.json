@@ -4,26 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b20c09374ec2cab0",
+        "id": "0466a69785cdc30a",
         "type": "tabs",
         "children": [
           {
-            "id": "390709370185c127",
+            "id": "826ff83754f185f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-              "title": "Video 3 ( فثسف ) - Copy"
-              "title": "New tab"
-              "title": "New tab"
+                "file": "Nafaq_Platform/Content/سلسلة التوعية الطبية/Video 3 ( فثسف ) - Copy.md",
                 "mode": "source",
                 "source": false
               },
-              "type": "empty",
-              "state": {},
               "icon": "lucide-file",
               "title": "Video 3 ( فثسف ) - Copy"
-              "title": "New tab"
             }
           }
         ]
@@ -178,13 +173,9 @@
     }
   },
   "active": "826ff83754f185f3",
-  "active": "390709370185c127",
   "lastOpenFiles": [
     "Nafaq_Platform/Content/SoloTalk/العلم والجهل ؟ من يدفع الثمن ؟.md",
-    "Nafaq_Platform/Content/سلسلة التوعية الطبية/Video 1 ( كيف تختار طبيبك ).md",
-    "Nafaq_Platform/Content/SoloTalk/العلم و الجهل و السعادة",
     "Nafaq_Platform/Content/SoloTalk",
-    "Nafaq_Platform/Content/سلسلة التوعية الطبية/Video 3 ( فثسف ) - Copy.md",
     "README.md",
     "Nafaq_Platform/Content/سلسلة التوعية الطبية/Video 3 ( فثسف ) - Copy.md",
     "Nafaq_Platform/Content/سلسلة التوعية الطبية/Video 1 ( كيف تختار طبيبك ).md",
